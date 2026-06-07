@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79c38900810d8498f9ec0e7040f61103
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueTame: {fileID: 11400000, guid: 54a7906a734514ad4b52ab6a822bd269, type: 2}
+  - dialogueDefeat: {fileID: 11400000, guid: 4db6789b9c4a943199f8776131cb5bdf, type: 2}
+  - bossAttackAI: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
