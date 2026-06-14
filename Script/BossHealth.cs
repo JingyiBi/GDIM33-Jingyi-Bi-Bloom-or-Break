@@ -9,6 +9,9 @@ public class BossHealth : MonoBehaviour
     [Header("Boss hearts UI array")]
     public GameObject[] bossHearts; 
 
+    [Header("Audio")]
+    public AudioClip takeDamageSound;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -17,13 +20,15 @@ public class BossHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        
         if (!GetComponent<BossDamage>().enabled) return;
+
+        if (takeDamageSound != null)
+        {
+            AudioSource.PlayClipAtPoint(takeDamageSound, transform.position);
+        }
 
         currentHealth -= damage;
         UpdateHeartsUI();
-
-        Debug.Log("Boss blood: " + currentHealth);
 
         if (currentHealth <= 0)
         {
@@ -42,8 +47,17 @@ public class BossHealth : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("Boss defeated!");
-        
+        MushroomBoss bossScript = GetComponent<MushroomBoss>();
+        if (bossScript != null && bossScript.nextLevelArrow != null)
+        {
+            bossScript.nextLevelArrow.SetActive(true);
+        }
+
+        if (QuestManager.Instance != null)
+        {
+            QuestManager.Instance.UpdateQuest(QuestState.Completed);
+        }
+
         Destroy(gameObject); 
     }
 }

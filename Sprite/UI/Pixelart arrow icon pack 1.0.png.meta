@@ -1,0 +1,2107 @@
+fileFormatVersion: 2
+guid: ccfb5ba1c696747c7b8187179eaefccc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 307
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27846ac62a60b4a51a7dd6b47b5f16ea
+      internalID: 2078911714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dabc73aa8264db88a0b043ed036d6d
+      internalID: 2130976333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 307
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570339606ce74026a8f82661b48501b
+      internalID: 181405819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 307
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648141ffc7154f848b62ddbbebcddbf
+      internalID: -1701810729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 305
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964163648c31f4de1aba8f60f0b07e7e
+      internalID: -2062643849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 305
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd0b980369e461b93fda059edae1e0
+      internalID: -1209356653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 305
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380fb4f0b5b1446fd84c298bd9d766dd
+      internalID: 933610192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 305
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4a143896024243b137ce7c7e1d65e
+      internalID: -671345386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280031be7948e4499b9a3aa1bab5a0bf
+      internalID: 859240699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58156d61da4ff47f28b8ad92fadfaced
+      internalID: 1631825865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760a481522e34cce9401d99a74c4ffd
+      internalID: 1053683708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05733755fdb54814a117f95e5490805
+      internalID: -126163271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 289
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ed2c55fccc45bf8f0c2255b46c3a6
+      internalID: -1179570855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 289
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2424bd34e46e42c1a1f616b06e7eb6d
+      internalID: -486471835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d396e940b694cc3a7e3555350058cf
+      internalID: -191120824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 289
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5b96302a1b485d82a7641e8321857
+      internalID: 687075886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e01700cdd7457fbc9687541308b79
+      internalID: -1953565891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 274
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8149b167d8b47f2913633db1815ee1
+      internalID: -323526462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 274
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908f205bc68f465bb33419e66fad19a
+      internalID: 1729552085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 274
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89a334191e44eec889ad8932812bbd
+      internalID: 1592059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 273
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc557deaf8f804eccb36702144438c56
+      internalID: 765182308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 273
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac192dd113a4e43f6bab2c7f6a44c33b
+      internalID: -1012026293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 273
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e3b4290b8c8464e8192ef84fa3d86b
+      internalID: 520343380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 273
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b95bc459ed4983ab05e31e3e12de6
+      internalID: 633495290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a485eb7f959e4800ad47ec93988b54b
+      internalID: 1375153258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e7d4137c7d499d8fc8c9e66042617
+      internalID: -1266177936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5855443d8d834e4eb02043c13e8989e
+      internalID: -1573727290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 259
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e7fe7c141464439b29019c7cd7058e
+      internalID: -924082672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1ad480182b4f6dbc7eb82be2f43c4
+      internalID: 989740652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee5c58fab354ac087e44a6fccf9947
+      internalID: 1345351269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57010721ef2dd42fc80d530f32f9b154
+      internalID: 1589652896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 258
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68d2ae291c948e2b0f46cccb60cb38
+      internalID: 639113690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59d4c6c6f214150b866064495f0a20
+      internalID: 351667536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6506fe95fe64c808792d7e276dc3b7
+      internalID: -632913756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a34fd7f8c9fb43b5aad6931fe92f5ef
+      internalID: -866921919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5e23546d3044aea61475de4c7c32a
+      internalID: 1536342988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f3c2d7ac4244518a19e7f410a8ed2
+      internalID: -674710716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7021ba3565f4f8a97a75081efc5f7d
+      internalID: 637837122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 219
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492e69e1a87a4d94bc7b22658ea16c7
+      internalID: 795872191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 219
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511faeea8f552459eb992d39c922294a
+      internalID: -1982972301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 221
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731cc61fc7834dc7892956136954545
+      internalID: -1842432889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b75e95390584c73865beb114ff8f83
+      internalID: -1163945754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 221
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae8bf6c3b934861a33ba5bb34dab30
+      internalID: 130320668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 221
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b78e0c013847e88e408abf97819e9
+      internalID: -99972188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d977366c35416b8589105694f3286
+      internalID: -293590459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 195
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38d94f221994c39bc4fca5f01c7f76
+      internalID: 1043777347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db64a163d291548c985c26f58bf3d910
+      internalID: -1788235919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924b394ce6dd4171a451ea27e0e2a1f
+      internalID: -2033320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f26a6669e3428d95a47c7899f187e
+      internalID: 1120711889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8fc22818b44c4794931b699073809
+      internalID: 1632122488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fabb8286ff848bb896037dd68b9eab
+      internalID: -1094982805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cec01d148cb4344868e5b04887211a
+      internalID: 261185084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd49a3e6dd5424c872e75133f7d0c7
+      internalID: 878539798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 172
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76dd43e2796448c483a98d9ae34cb52
+      internalID: -30262369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 172
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a07356217e9422891f483123878515
+      internalID: -1542253100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 172
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7fd55ffead34eae8af07c6624c34b6
+      internalID: 1674694371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 180
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9054abbb40c4ac495e71ce2aa6d185
+      internalID: 15157491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 180
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6eb5377dd44fae8657a8efd435841
+      internalID: -319742943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2e93c4543c49eb900a50f9d89a73a
+      internalID: -1885543513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 180
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37768e86a63c44deabe9866d8b65ba0d
+      internalID: 1835699967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c3f992a5e440b992281e687a8ee3b
+      internalID: 32570819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8e11722ddd49b6b84d1e4ae508eca
+      internalID: 1866363565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 150
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62201cb54196949118b08ae35d15d895
+      internalID: 1665248194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 150
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad4cf4cc6124f2dbe65c537c0ff7b2
+      internalID: -683034500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0c1eeeb68c4d41b5d624967e49e96
+      internalID: -658732361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d9c35c9f0d456a9619909ea1c5a3e
+      internalID: 199825445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace162c56fe7e4d1a937ecdc09f4bea9
+      internalID: -1324966346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_67
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 161
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67228880ec164d30a788d52419d996f
+      internalID: -1641787163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d61e090f494a6b9210609e0ac5417
+      internalID: -158494193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 127
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e34d9abd2c42c5a968471487f6dbe
+      internalID: 1516596949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1b02367239484286d75be869f3cef
+      internalID: -63944772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 140
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb3459754a14ea0ad53102cac94f1d
+      internalID: -1402677280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b0ed2f76c934135b32ac2ed7c0bd23
+      internalID: -1175945448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 102
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89fdd2ad577f4f1380562d27a8c691e
+      internalID: 1637172454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 102
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6dc7eac33ac44419329083a9d1d641
+      internalID: -1590316339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2033a408e64d8dab1b96272334f59
+      internalID: -1703655254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc34b3132e54617a2b5e7a4a096f2d
+      internalID: -931858125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e1ce0963834dcb94a38dfe8eba8eb
+      internalID: 1647321926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26170216ca8a48fc8329ea193c2ebc7
+      internalID: 1775775253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb31e66155434c04b95e47da4d2eeb7
+      internalID: -1458542269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a317fe9e4b4f01a095ce06793a795
+      internalID: -2048830005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac18702b31794b07af8488ae811cad3
+      internalID: -385547522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498ba4b25a83e4e858a0c2655d6173fd
+      internalID: -714015651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 56
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f130c9827b4e489c2a9cd2a12b701
+      internalID: -1936213617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1359ebb7ac14e4e6eabf22d9621b5f77
+      internalID: -575822585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 34
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b4e48b5b024d98bce8504ad979b8c
+      internalID: 207366904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546c593114fa49bdb0477b7f77593f8
+      internalID: -471468115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6a790d46e1b40bda8764e0e46e17ca
+      internalID: 187840150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badaae39a7c9d47f690622eb14a45b09
+      internalID: -1246103206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixelart arrow icon pack 1.0_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 11
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c8c9b1d7f341e7ad4a682e4d4379f
+      internalID: 2137937156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixelart arrow icon pack 1.0_0: 2078911714
+      Pixelart arrow icon pack 1.0_1: 2130976333
+      Pixelart arrow icon pack 1.0_10: 1053683708
+      Pixelart arrow icon pack 1.0_11: -126163271
+      Pixelart arrow icon pack 1.0_12: -1179570855
+      Pixelart arrow icon pack 1.0_13: -486471835
+      Pixelart arrow icon pack 1.0_14: -191120824
+      Pixelart arrow icon pack 1.0_15: 687075886
+      Pixelart arrow icon pack 1.0_16: -1953565891
+      Pixelart arrow icon pack 1.0_17: -323526462
+      Pixelart arrow icon pack 1.0_18: 1729552085
+      Pixelart arrow icon pack 1.0_19: 1592059391
+      Pixelart arrow icon pack 1.0_2: 181405819
+      Pixelart arrow icon pack 1.0_20: 765182308
+      Pixelart arrow icon pack 1.0_21: -1012026293
+      Pixelart arrow icon pack 1.0_22: 520343380
+      Pixelart arrow icon pack 1.0_23: 633495290
+      Pixelart arrow icon pack 1.0_24: 1375153258
+      Pixelart arrow icon pack 1.0_25: -1266177936
+      Pixelart arrow icon pack 1.0_26: -1573727290
+      Pixelart arrow icon pack 1.0_27: -924082672
+      Pixelart arrow icon pack 1.0_28: 989740652
+      Pixelart arrow icon pack 1.0_29: 1345351269
+      Pixelart arrow icon pack 1.0_3: -1701810729
+      Pixelart arrow icon pack 1.0_30: 1589652896
+      Pixelart arrow icon pack 1.0_31: 639113690
+      Pixelart arrow icon pack 1.0_32: 351667536
+      Pixelart arrow icon pack 1.0_33: -632913756
+      Pixelart arrow icon pack 1.0_34: -866921919
+      Pixelart arrow icon pack 1.0_35: 1536342988
+      Pixelart arrow icon pack 1.0_36: -674710716
+      Pixelart arrow icon pack 1.0_37: 637837122
+      Pixelart arrow icon pack 1.0_38: 795872191
+      Pixelart arrow icon pack 1.0_39: -1982972301
+      Pixelart arrow icon pack 1.0_4: -2062643849
+      Pixelart arrow icon pack 1.0_40: -1842432889
+      Pixelart arrow icon pack 1.0_41: -1163945754
+      Pixelart arrow icon pack 1.0_42: 130320668
+      Pixelart arrow icon pack 1.0_43: -99972188
+      Pixelart arrow icon pack 1.0_44: -293590459
+      Pixelart arrow icon pack 1.0_45: 1043777347
+      Pixelart arrow icon pack 1.0_46: -1788235919
+      Pixelart arrow icon pack 1.0_47: -2033320063
+      Pixelart arrow icon pack 1.0_48: 1120711889
+      Pixelart arrow icon pack 1.0_49: 1632122488
+      Pixelart arrow icon pack 1.0_5: -1209356653
+      Pixelart arrow icon pack 1.0_50: -1094982805
+      Pixelart arrow icon pack 1.0_51: 261185084
+      Pixelart arrow icon pack 1.0_52: 878539798
+      Pixelart arrow icon pack 1.0_53: -30262369
+      Pixelart arrow icon pack 1.0_54: -1542253100
+      Pixelart arrow icon pack 1.0_55: 1674694371
+      Pixelart arrow icon pack 1.0_56: 15157491
+      Pixelart arrow icon pack 1.0_57: -319742943
+      Pixelart arrow icon pack 1.0_58: -1885543513
+      Pixelart arrow icon pack 1.0_59: 1835699967
+      Pixelart arrow icon pack 1.0_6: 933610192
+      Pixelart arrow icon pack 1.0_60: 32570819
+      Pixelart arrow icon pack 1.0_61: 1866363565
+      Pixelart arrow icon pack 1.0_62: 1665248194
+      Pixelart arrow icon pack 1.0_63: -683034500
+      Pixelart arrow icon pack 1.0_64: -658732361
+      Pixelart arrow icon pack 1.0_65: 199825445
+      Pixelart arrow icon pack 1.0_66: -1324966346
+      Pixelart arrow icon pack 1.0_67: -1641787163
+      Pixelart arrow icon pack 1.0_68: -158494193
+      Pixelart arrow icon pack 1.0_69: 1516596949
+      Pixelart arrow icon pack 1.0_7: -671345386
+      Pixelart arrow icon pack 1.0_70: -63944772
+      Pixelart arrow icon pack 1.0_71: -1402677280
+      Pixelart arrow icon pack 1.0_72: -1175945448
+      Pixelart arrow icon pack 1.0_73: 1637172454
+      Pixelart arrow icon pack 1.0_74: -1590316339
+      Pixelart arrow icon pack 1.0_75: -1703655254
+      Pixelart arrow icon pack 1.0_76: -931858125
+      Pixelart arrow icon pack 1.0_77: 1647321926
+      Pixelart arrow icon pack 1.0_78: 1775775253
+      Pixelart arrow icon pack 1.0_79: -1458542269
+      Pixelart arrow icon pack 1.0_8: 859240699
+      Pixelart arrow icon pack 1.0_80: -2048830005
+      Pixelart arrow icon pack 1.0_81: -385547522
+      Pixelart arrow icon pack 1.0_82: -714015651
+      Pixelart arrow icon pack 1.0_83: -1936213617
+      Pixelart arrow icon pack 1.0_84: -575822585
+      Pixelart arrow icon pack 1.0_85: 207366904
+      Pixelart arrow icon pack 1.0_86: -471468115
+      Pixelart arrow icon pack 1.0_87: 187840150
+      Pixelart arrow icon pack 1.0_88: -1246103206
+      Pixelart arrow icon pack 1.0_89: 2137937156
+      Pixelart arrow icon pack 1.0_9: 1631825865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

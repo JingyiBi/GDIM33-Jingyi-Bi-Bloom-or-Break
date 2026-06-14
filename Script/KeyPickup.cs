@@ -9,33 +9,30 @@ public class KeyPickup : MonoBehaviour
 
     void Update()
     {
-        
         if (canPickUp && Input.GetKeyDown(KeyCode.F))
         {
-            Debug.Log("get key, destroy board!");
-
-            
             if (boardToDestroy != null)
             {
                 Destroy(boardToDestroy);
             }
 
-            
+            if (QuestManager.Instance != null)
+            {
+                QuestManager.Instance.SetKeyCollected();
+            }
+
             Destroy(gameObject);
         }
     }
 
-    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             canPickUp = true;
-            Debug.Log("Press F to pick up the key.");
         }
     }
 
-    
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
