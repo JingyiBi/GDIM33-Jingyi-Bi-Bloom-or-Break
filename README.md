@@ -30,10 +30,14 @@ Grading TargetPlease grade the Quest Management and Branching Objective Navigati
 
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
-## Milestone 4 Devlog
-Milestone 4 Devlog goes here.
 ## Final Devlog
-Final Devlog goes here.
+### 1
+The core gameplay loop centers on exploration, environmental puzzle-solving, and critical choice architecture. Players explore the map, engage with a narrative guide, discover upgrades or hidden progression items, and interact with a major encounter. The loop culminates in a critical path choice: the aggressive Defeat Route or the peaceful Tame Route.
+### 2
+### 3
+1 I plan to rely heavily on task step breakdowns in future planning. While bubble diagrams are excellent for mapping macro system dependencies visually, task step breakdowns translate those abstract ideas into immediate, actionable coding tasks, which prevents implementation paralysis.
+2 Breaking a major feature down into tiny steps completely shifts my understanding of project scope. It instantly highlights hidden technical hurdles, such as realizing a visual graph cannot easily talk to a static C# singleton without writing an intermediate bridge script (QuestGraphBridge). This turns a vague guess about timeline length into a highly accurate, realistic schedule.
+3 This plan highlights what went well and what went poorly during this vertical slice development. What went well was the technical modularity; keeping the QuestManager state system completely separate from visual inputs made debugging incredibly clean. However, my upfront task estimation for art and rendering went poorly, causing me to run out of time for the rendering feature. Moving forward, I will utilize granular task step breakdowns much earlier in the planning phase to guarantee an accurate minimum viable product scope.
 ## Open-source assets
 NPCs and Player:
 https://monopixelart.itch.io/forest-monsters-pixel-art
