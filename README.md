@@ -26,6 +26,8 @@ Because custom enums and singletons are difficult to expose cleanly in basic vis
 right before the pickup item fires its final Game Object Destroy node inside the Buff_brain graph, a Component: Send Message node calls UnlockPlayerAttack. This safely runs the C# method on our bridge script, which seamlessly updates the objective parameters inside QuestManager.
 ### 4 
 Grading TargetPlease grade the Quest Management and Branching Objective Navigation System for Feature (3). This architecture is driven by the persistent QuestManager component in the scene hierarchy and outputs text objectives dynamically onto the UI Canvas.
+
+
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
